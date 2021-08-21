@@ -10,7 +10,31 @@
         <img class="charpstarARViewer" onclick="activateAR(this)" src="https://charpstar.se/ARBannerWhiteEng.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
     
     </div>
-  
+    
+    <div id="3Dtest" class="3demo">
+        <script type="module" src="https://cdn.jsdelivr.net/gh/charpstar/InPlace/model-viewer.js"></script>
+        <div class="model-viewer-wrapper">
+            <model-viewer id="threeDViewer" poster="https://charpstar.se/InPlace/Freedom/coco.jpg" src="https://charpstar.se/InPlace/Freedom/coco1.glb">
+            </model-viewer>
+        </div>
+            <style>
+                .model-viewer-wrapper {
+                position: relative;
+                padding-top: 100%;
+                margin: 0
+                }
+                
+                model-viewer
+                {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                height: calc(100% - 8px)
+                }
+            </style>    
+
+    </div>
     
   </body>
 </html>
