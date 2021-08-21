@@ -1,18 +1,19 @@
 <!doctype html>
 <html>
   <head>
-    <title>This is the title of the webpage!</title>
+    <title>AR and 3D testing</title>
   </head>
   <body>
     
     <div id="Ardemo" class="demo">
+        <h1>AR Test</h1>
         <script src="https://cdn.jsdelivr.net/gh/charpstar/InPlace/charpstar-viewer.js"></script>            
         <img class="charpstarARViewer" onclick="activateAR(this)" src="https://charpstar.se/ARBannerWhiteEng.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
     
     </div>
     
     <div id="3Dtest" class="3demo">
-        <h1>3D Test</h1>
+        <h2>3D Test</h2>
         <script type="module" src="https://cdn.jsdelivr.net/gh/charpstar/InPlace/model-viewer.js"></script>
         <div class="model-viewer-wrapper">
             <model-viewer id="threeDViewer" poster="https://charpstar.se/InPlace/Freedom/coco.jpg" src="https://charpstar.se/InPlace/Freedom/coco1.glb">
@@ -21,7 +22,7 @@
             <style>
                 .model-viewer-wrapper {
                 position: relative;
-                padding-top: 100%;
+                padding-top: 10%;
                 margin: 0
                 }
                 
