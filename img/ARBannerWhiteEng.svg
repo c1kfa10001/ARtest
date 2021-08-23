@@ -205,7 +205,7 @@
       <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.867188 0 L 186.632812 0 L 186.632812 61.671875 L 0.867188 61.671875 Z M 0.867188 0 "/>
       <g clip-path="url(#clip2)" transform="matrix(1, 0, 0, 1, 1.1100004137787063e-16, -4.916001772461509e-15)" mask="url(#mask0)">
         <g clip-path="url(#clip3)" clip-rule="nonzero">
-          <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.867188 0 L 186.632812 0 L 186.632812 61.671875 L 0.867188 61.671875 Z M 0.867188 0 "/>
+          <path style="stroke: none; fill-rule: nonzero; fill: rgb(255, 255, 255); fill-opacity: 1;" d="M 0.728 13.599 L 186.494 13.599 L 186.772 49.119 L 1.006 49.119 Z M 0.728 13.599"/>
         </g>
       </g>
     </g>
@@ -224,5 +224,5 @@
       <path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.999176 11.899672 L 11.999176 16.577877 " transform="matrix(1.292563,0,0,1.292563,-0.884691,-0.927951)"/>
     </g>
   </g>
-  <text transform="matrix(0.903878, 0, 0, 1.402439, 0.840243, -12.875249)" style="fill: rgb(69, 69, 69); font-family: &quot;Roboto Slab&quot;; font-size: 13px; letter-spacing: -0.1px; white-space: pre;" x="31.089" y="35.172">View in Augumented Reality</text>
+  <text transform="matrix(0.863052, 0, 0, 0.958732, 6.084142, 2.527833)" style="fill: rgb(69, 69, 69); font-family: &quot;Roboto Slab&quot;; font-size: 13px; letter-spacing: -0.1px; white-space: pre;" x="31.089" y="35.172">View in Augumented Reality</text>
 </svg>
