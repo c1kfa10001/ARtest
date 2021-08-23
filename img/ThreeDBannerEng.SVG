@@ -223,6 +223,6 @@
       <path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.999176 6.946456 L 11.999176 2.074837 " transform="matrix(1.292563,0,0,1.292563,-0.884691,-0.927951)"/>
       <text transform="matrix(1.944907, 0.002741, 0.037512, 0.976715, -13.800271, 0.15129)" style="fill: rgb(5, 5, 5); font-family: &quot;Roboto Slab&quot;; font-size: 7.00515px; font-weight: 700; white-space: pre;" x="10.804" y="20.845" dx="-0.942" dy="3.557">3D</text>
     </g>
-    <text transform="matrix(0.986526, 0, 0, 1.085052, -0.31349, -2.045821)" style="fill: rgb(69, 69, 69); font-family: &quot;Roboto Slab&quot;; font-size: 13px; font-weight: 500; letter-spacing: -0.1px; white-space: pre;" x="31.089" y="35.172">View in Three Dimension</text>
+    <text transform="matrix(0.92995, 0, 0, 1.304363, -0.019703, -9.487201)" style="fill: rgb(69, 69, 69); font-family: &quot;Roboto Slab&quot;; font-size: 13.4949px; letter-spacing: -0.1px; word-spacing: 1.2px; white-space: pre;" x="31.089" y="35.172">View in Three Dimension</text>
   </g>
 </svg>
