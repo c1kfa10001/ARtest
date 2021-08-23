@@ -8,17 +8,27 @@
     <div id="Ardemo" class="demo">
         <h1>AR Test</h1>
         <script src="./js/ar/activateAR.js"></script>            
-        <img class="charpstarARViewer" onclick="activateAR(this)" src="./img/ArSmall.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
+        <img class="icon" onclick="activateAR(this)" src="./img/ArSmall.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
+        <div id="ARdemo2" class="demo2">
+            <h1>3Dtest</h1>
+            <script src="./js/ar/activateAR.js"></script>            
+            <img class="icon" onclick="activateAR(this)" src="./img/ThreeDSmall.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
         
-    </div>
-
-    <div id="ARdemo2" class="demo2">
-        <h1>AR Test</h1>
-        <script src="./js/ar/activateAR.js"></script>            
-        <img class="charpstarARViewer" onclick="activateAR(this)" src="./img/ThreeDSmall.svg" data-desktopqr data-androidsrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.glb" data-iossrc="https://charpstar.se/InPlace/Demos/ClasOhlson/ClasOhlson.usdz">
     
+        </div> 
+        <style>
+            .icon {
+                height: 60px;
+                width: 60px;
+            }
 
+            #Ardemo {
+                display: inline-flex;
+            }
+        </style> 
     </div>
+
+    
     
     <div id="3Dtest" class="3demo">
         <h2>3D Test</h2>
